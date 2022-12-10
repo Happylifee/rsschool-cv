@@ -2,7 +2,7 @@
 
 # Rinat Iskandarov
 
-![img](https://cs12.pikabu.ru/post_img/big/2022/12/07/7/167041209718120173.png)
+<img src="https://cs12.pikabu.ru/post_img/big/2022/12/07/7/167041209718120173.png" width="200">
 
 ## Contacts
 
