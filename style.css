@@ -10,9 +10,7 @@ body {
   justify-content: space-between;
   
   min-height: 100vh;
-  margin: 0 200px;
-  padding: 0;
-  padding-left: 11rem;
+  margin: 0;
   font-size: 18px;
   line-height: 2em;
   background-color: rgb(80, 80, 80);
@@ -28,6 +26,7 @@ body {
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  padding-left: 11rem;
 }
 .header {
     margin: 0px;
@@ -38,7 +37,7 @@ body {
    padding: 10px;
 }
 .footer {
-    margin: 0px;
+    margin: 0;
     padding: 10px;
 }
 .nav-list {
@@ -83,9 +82,9 @@ body {
 }
 
 .section {
-  width: 50%;
-  margin: 50px 0 ;
-  padding: 50px 0;
+  width: 80%;
+  margin: 80px auto ;
+  padding: 20px auto;
   border-bottom:1px solid #00e1ff;
 
 }
