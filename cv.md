@@ -13,11 +13,12 @@
 * Email: happy_lifee@list.com
 
 * GitHub: Happy_lifee
-   * Discord: Happy(@Happylifee)
+
+* Discord: Happy(@Happylifee)
+
 ## About Me
 
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+He worked for 14 years in the field of non-IT development, although he wanted to work in this field for a long time. I set myself a goal and started training at The Rolling Scopes on the developer's Frontend. They will learn and develop, which I am very happy about! I wish you all excellent results and no matter how hard it is for you to achieve your goals!
 
 ## Skills
 
@@ -46,8 +47,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## Courses:
 
-The Rolling Scope: JS/FE Pre-School 2022Q4 ***(IN PROCCES)***
+*freeCodecamp: HTML(Basic) and CSS(Basic)
+
+*The Rolling Scope: JS/FE Pre-School 2022Q4 ***(IN PROCCES)***
 
 ## English
 
-> A1
+> A1(Beginner)
